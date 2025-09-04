@@ -1,4 +1,4 @@
-# Quiz App (React + Vite)
+# Quiz App 
 
 Clean, responsive quiz application with scoring, results summary, and optional high-score persistence.
 
