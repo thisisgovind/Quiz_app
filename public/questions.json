@@ -1,0 +1,12 @@
+[
+  { "question": "Which data structure operates on the principle of Last In First Out (LIFO)?", "correct": "Stack", "incorrect": ["Queue", "Array", "Linked List"] },
+  { "question": "What is the time complexity of searching for an element in a balanced binary search tree?", "correct": "O(log n)", "incorrect": ["O(1)", "O(n)", "O(n log n)"] },
+  { "question": "Which of these is a linear data structure?", "correct": "Queue", "incorrect": ["Tree", "Graph", "Hash Table"] },
+  { "question": "Which sorting algorithm has the best average-case time complexity among these?", "correct": "Merge Sort", "incorrect": ["Bubble Sort", "Insertion Sort", "Selection Sort"] },
+  { "question": "In a max heap, the largest element is always at:", "correct": "The root node", "incorrect": ["Any leaf node", "The last node", "The leftmost node"] },
+  { "question": "Which traversal of a binary tree visits nodes in the order: Left, Root, Right?", "correct": "Inorder", "incorrect": ["Preorder", "Postorder", "Level Order"] },
+  { "question": "Which data structure is most suitable for implementing a priority queue?", "correct": "Heap", "incorrect": ["Stack", "Linked List", "Queue"] },
+  { "question": "What is the worst-case time complexity of linear search?", "correct": "O(n)", "incorrect": ["O(1)", "O(log n)", "O(n log n)"] },
+  { "question": "Which algorithm is used to find the shortest path in a graph with non-negative edge weights?", "correct": "Dijkstra's Algorithm", "incorrect": ["Prim's Algorithm", "Kruskal's Algorithm", "Bellman-Ford Algorithm"] },
+  { "question": "Which data structure uses a hash function to map keys to values?", "correct": "Hash Table", "incorrect": ["Queue", "Stack", "Tree"] }
+]
